@@ -11,7 +11,7 @@ tags: [blog]     # TAG names should always be lowercase
 
 *   Although I'll be doing my best to make this be readable, I would discourage any expectations for any of this to be 'essay-tier', per se. This is basically just thoughts and progress spewed out onto a reasonable medium.
 *   I understand that it's likely that pretty much nobody reads all this. That's okay. It's a nice place to talk to myself.
-*   This first post is going to be _quite _long. The coming posts after this one will be less wordy, and contain visual progress. The first paragraph below should hopefully act as a decent TL;DR.
+*   This first post is going to be _quite_ long. The coming posts after this one will be less wordy, and contain visual progress. The first paragraph below should hopefully act as a decent TL;DR.
 
 **Summary of this post:** I'm going to make a game. I don't yet know how long it will take. This blog will document my progress. The game will be a classic 2D RPG, inspired by less-classical 2D RPGs like Undertale and Stardew Valley, with a strong focus on writing and polish. For now, I'll be making this in Unity/C# to get accustomed to an industry-standard working environment. Although this is a personal project, I'm hoping that the experience, documentation, and final product I end up with might help me find a job in an industry I'd love to work in, being game design.
 
@@ -29,7 +29,7 @@ On the first day I decided to do any work on this, I started by sitting down, an
 
 ## The Decisions I Made
 
-I decided that I would need a way to document my progress. It's all well and good to make a game, but unless you have some way to detail how you've made it, who cares? This is where I decided on this blog. **GitHub** offers some nice free hosting, **Jekyll **offers an easy way to blog with markdown, and **Chirpy** provides a cool theme. I've decided more recently that I'd like to make progress updates whenever I feel that the game is at at least a semi-important development milestone (or just whenever I feel like making a post).
+I decided that I would need a way to document my progress. It's all well and good to make a game, but unless you have some way to detail how you've made it, who cares? This is where I decided on this blog. **GitHub** offers some nice free hosting, **Jekyll** offers an easy way to blog with markdown, and **Chirpy** provides a cool theme. I've decided more recently that I'd like to make progress updates whenever I feel that the game is at at least a semi-important development milestone (or just whenever I feel like making a post).
 
 I wanted to use an industry-standard(ish) technology stack. Upon doing some research, I decided that C# was going to be the language. Although I initially wanted to use MonoGame (ex-XNA), but decided to use the Unity Engine, as the resources for it were too good to pass up, and because it's nice to get some experience in what is possibly the most widely-used engine out there.
 
@@ -39,7 +39,7 @@ I loved _Stardew Valley_'s and _Red Dead Redemption 2_'s approach to NPCs, in th
 
 The time period and setting for the game was where I put the most thought into. I'm a sucker for the classic, medieval RPG game with swords, bows, arrows, and the like (think _Kingdom Come: Deliverance_), but unfortunately it feels like the time period has been done to death, and although this is a personal project, I'd still like people to play it. There needs to be some sort of uniqueness to the game. I decided to make the time and setting fantasy. Looking back, this should have been a quick decision, based on the depth of lore I wanted to write, but I was caught up in the mindset of a somewhat reality-based game, so I thought my setting had to be Earth. I don't want to fall into the get-out-of-jail-free card that is 'Oh, this is a fantasy, so anything can happen!'. It's cheap, it ruins player immersion, and it only serves as an excuse for poor writing. Keep in mind that this is not me saying that my writing won't be poor, only that I'll strive to not make excuses for it if/when it is.
 
-I made a draft of what I thought the world might look like. I decided on 8 regions. Explaining what the regions will be would ruin the fun, but know that I'm planning on naming them **Otthon**,** Qarae**, the** Resfrian Desert**,** Heichii**,** Verschillia**,** **the** Federation of Eletheria**,** Arrdor**, and the** Harpori Isles**.
+I made a draft of what I thought the world might look like. I decided on 8 regions. Explaining what the regions will be would ruin the fun, but know that I'm planning on naming them **Otthon**, **Qarae**, the **Resfrian Desert**, **Heichii**, **Verschillia**, the **Federation of Eletheria**, **Arrdor**, and the **Harpori Isles**.
 
 The only decision I've made on the OST is (and I quote from what I've written) '_has to slap, and incorporate well into game setting and area_'. This is another reason why I love _Undertale_. I will admit now that whatever OST is made will never compete though, as if I recall correctly, the game's creator, Toby Fox, made the OST first, and the game around it.
 
@@ -47,7 +47,7 @@ As for sound design within the game sounds, optimally I'm looking for them to be
 
 For the genre of the game, I decided on a role-playing game, or RPG. I want it to be at least semi-open world (think _Pokemon_), have JRPG-inspired combat, and have classical action RPG elements such as levelling, upgrading gear, and quests. Tried and true functionality that's legitimately fun and engaging should be at the forefront of how this game is designed and produced. I'll talk about this more when I talk about combat.
 
-For our protagonist, I originally wanted them to be fully customisable, from clothes to body to name. Currently though, to be truthful, I'm unsure, and leaning towards having a set, named character. Although this is easier for art purposes, it's not the reason I'm making this decision. I feel like I want the player to _resonate_ with their character, and be able to look through their perspective. I don't think I want the player to _be _the character. Having a set protagonist also allows for a backstory, much deeper interactions with NPCs, and a proper character arc that doesn't feel cheap, or cookie-cutter.
+For our protagonist, I originally wanted them to be fully customisable, from clothes to body to name. Currently though, to be truthful, I'm unsure, and leaning towards having a set, named character. Although this is easier for art purposes, it's not the reason I'm making this decision. I feel like I want the player to _resonate_ with their character, and be able to look through their perspective. I don't think I want the player to _be_ the character. Having a set protagonist also allows for a backstory, much deeper interactions with NPCs, and a proper character arc that doesn't feel cheap, or cookie-cutter.
 
 I do, however, have some things that I do know that I want for the protagonist. I'd like them to be quiet, but not silent. Confident, but not overtly cocky. Powerful, but not invincible. Understated, but not a pushover. Think _Takumi_, from _Initial D_.
 
