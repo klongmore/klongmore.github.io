@@ -3,6 +3,7 @@ title: In the Beginning
 date: 2020-12-12 00:35:00 +1100
 categories: [Blog, Rant]
 tags: [blog]     # TAG names should always be lowercase
+pin: true
 ---
 
 **_Hey,_** this is my first post on this dev blog thing that I made. A few warnings for if you're considering reading:
