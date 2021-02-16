@@ -47,4 +47,4 @@ I will be working on:
 
 _-Kai_
 
-![Desktop View](/assets/img/image2.gif)
+![Desktop View](/assets/img/image3.gif)
